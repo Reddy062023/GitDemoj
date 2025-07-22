@@ -13,6 +13,8 @@ public class SeleniumTest {
 		
 		System.out.println("Web automation");	
 		System.out.println("Web automationjp");
+		System.out.println("Web automationjp1");
+		System.out.println("Web automationjp");
 	}
 	@Test
 	public void elementsUi()
